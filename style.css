@@ -1,0 +1,32 @@
+body {
+  background-color: lightslategrey;
+
+}
+
+header {
+  background-color: antiquewhite;
+  color: lightslategrey;
+  text-align: center;
+  font-size: 62px;
+  padding-top: 20px;
+  padding-bottom: 10px;  
+}
+
+ul {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 28px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  white-space: nowrap;
+}
+
+li {
+  padding-left: 25px;
+  padding-right: 25px; 
+  display: inline;
+}
+
+.parallax-container {
+  height: "50px";
+}
